@@ -1,0 +1,15 @@
+# files
+.databricks
+__pycache__
+.ipynb_checkpoints
+.vscode
+.hypothesis
+
+# folders
+data_raw/
+data_clean/
+res/
+savemodel/
+merlin_data/
+categories/
+test/

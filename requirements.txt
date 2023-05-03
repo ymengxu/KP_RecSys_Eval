@@ -1,0 +1,17 @@
+implicit==0.6.2
+lightfm==1.16
+recommenders==1.1.1
+cornac==1.14.2
+numpy==1.23.5
+openpyxl==3.1.2
+pandas==1.5.3
+scikit_learn==1.2.2
+scipy==1.10.1
+spacy==3.5.1
+dgl==1.0.1+cu113
+hyperopt==0.2.7
+numba==0.55.1
+merlin-models==0.11.0
+merlin-dataloader==0.0.4
+merlin-core==0.10.0
+nvtabular==1.8.1
