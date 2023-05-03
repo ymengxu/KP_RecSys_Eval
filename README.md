@@ -23,6 +23,6 @@ This project aims to provide an evaluation of the performance of different recom
 precision, recall, HR, NDCG, MRR, MAP
 
 ## Contact
-Repo Link: https://github.com/ymengxu/KP_RecSys_Eval
-Repo Link in KP: https://github.kp.org/CSIT-CDO-KPWA/RecSys_Algos_Eval
+Repo Link: https://github.com/ymengxu/KP_RecSys_Eval   
+Repo Link in KP: https://github.kp.org/CSIT-CDO-KPWA/RecSys_Algos_Eval   
 Author: Mengxuan Yan (mengxuan.yan@alumni.emory.edu)
